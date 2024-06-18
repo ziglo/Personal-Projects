@@ -1,2 +1,2 @@
 # Personal-Projects
-personal projects
+will be working on personal projects related to data analytics and AI.
